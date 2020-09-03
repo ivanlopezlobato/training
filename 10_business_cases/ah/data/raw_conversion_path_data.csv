@@ -1,237 +1,237 @@
 Conversion Path,Conversions,Conversion Value
-SEO,"74,987","$3,206,765.03"
-SEA,"45,931","$1,925,668.95"
-Social Media Paid,"23,810","$848,227.23"
-CRM,"10,766","$485,507.66"
-Social Media Unpaid,"6,246","$229,392.13"
-Affiliate,"4,210","$169,245.21"
-(Other),"4,003","$137,497.05"
-SEO > SEA,"10,214","$446,666.67"
-SEA > SEA,"6,281","$270,617.25"
-SEO > CRM,"3,037","$110,173.13"
-Social Media Paid > Social Media Paid,1656,"$65,723.79"
-SEO > (Other),"1,207","$64,195.82"
-SEA > SEO,1173.6,"$50,741.07"
-SEA > CRM,1173.6,"$49,489.73"
-SEO > Affiliate,966,"$47,171.01"
-(Other) > CRM,621.6,"$18,291.98"
-(Other) > (Other),552,"$25,892.32"
-SEO > Social Media Paid,517.2,"$22,265.03"
-Social Media Paid > Social Media Unpaid,414,"$15,021.31"
-SEA > (Other),379.2,"$29,115.07"
-(Other) > SEA,379.2,"$14,735.27"
-CRM > CRM,379.2,"$8,402.51"
-SEA > Affiliate,345.6,"$14,293.40"
-Affiliate > SEA,310.8,"$5,814.34"
-SEO > Social Media Unpaid,172.8,"$9,360.24"
-Social Media Unpaid > Social Media Paid,172.8,"$7,712.01"
-Social Media Paid > CRM,172.8,"$5,363.75"
-Affiliate > SEO,138,"$8,244.85"
-Affiliate > (Other),138,"$7,478.65"
-Social Media Paid > SEA,138,"$2,786.95"
-SEA > Social Media Unpaid,103.2,"$12,050.04"
-CRM > SEA,103.2,"$5,250.93"
-(Other) > SEO,103.2,"$4,729.17"
-Social Media Unpaid > Social Media Unpaid,103.2,"$4,041.40"
-SEA > Social Media Paid,103.2,$670.79
-CRM > (Other),69.6,"$1,943.74"
-Affiliate > Affiliate,69.6,"$1,764.69"
-(Other) > Social Media Unpaid,69.6,"$1,396.33"
-Affiliate > CRM,69.6,"$1,313.03"
-CRM > SEO,69.6,$749.41
-SEO > SEO,69.6,$510.47
-(Other) > Affiliate,34.8,"$8,618.13"
-Social Media Paid > Affiliate,34.8,"$4,405.09"
-Social Media Paid > SEO,34.8,"$3,811.73"
-Social Media Unpaid > CRM,34.8,"$2,903.45"
-Social Media Unpaid > Affiliate,34.8,"$2,014.43"
-CRM > Social Media Paid,34.8,"$1,299.96"
-Social Media Unpaid > (Other),34.8,$543.07
-Social Media Paid > (Other),34.8,$284.41
-SEO > SEA > SEA,"2,002","$114,614.05"
-SEA > SEA > SEA,"1,207","$49,620.12"
-SEO > SEA > SEO,1104,"$45,165.15"
-SEO > SEA > CRM,586.8,"$32,979.68"
-SEA > SEO > SEA,379.2,"$16,141.37"
-SEO > Affiliate > SEO,345.6,"$14,470.99"
-SEO > (Other) > SEA,276,"$12,788.44"
-SEA > SEA > CRM,276,"$6,031.97"
-SEO > (Other) > SEO,241.2,"$13,886.47"
-(Other) > (Other) > (Other),172.8,"$15,962.54"
-SEO > SEA > Affiliate,172.8,"$8,170.13"
-(Other) > SEA > (Other),138,"$7,960.62"
-SEO > CRM > CRM,138,"$1,174.55"
-SEO > Affiliate > SEA,103.2,"$8,862.85"
-SEO > (Other) > (Other),103.2,"$3,651.81"
-SEA > (Other) > SEA,103.2,$821.91
-(Other) > (Other) > SEO,69.6,"$7,883.05"
-SEO > Affiliate > Social Media Unpaid,69.6,"$5,557.15"
-SEA > Affiliate > SEA,69.6,"$4,245.57"
-Social Media Paid > Social Media Paid > Social Media Paid,69.6,"$3,391.47"
-CRM > SEO > Affiliate,69.6,"$2,833.61"
-Social Media Paid > Social Media Unpaid > Social Media Paid,69.6,"$2,548.32"
-SEA > (Other) > (Other),69.6,"$2,361.28"
-SEO > SEA > Social Media Paid,69.6,"$2,236.77"
-(Other) > (Other) > CRM,69.6,"$1,902.13"
-SEO > (Other) > CRM,69.6,"$1,772.52"
-SEA > (Other) > CRM,69.6,"$1,584.35"
-SEA > SEA > SEO,69.6,"$1,408.61"
-SEO > SEO > SEA,69.6,"$1,016.18"
-Social Media Paid > (Other) > Social Media Paid,69.6,$766.43
-SEO > CRM > Social Media Unpaid,69.6,$716.63
-Affiliate > SEA > SEA,34.8,"$6,945.52"
-Social Media Unpaid > Social Media Paid > Social Media Paid,34.8,"$5,978.80"
-SEO > Social Media Unpaid > SEA,34.8,"$3,762.28"
-SEO > Social Media Paid > Social Media Paid,34.8,"$3,762.28"
-Social Media Unpaid > Social Media Paid > SEO,34.8,"$3,716.42"
-CRM > Affiliate > CRM,34.8,"$2,149.88"
-SEA > (Other) > Affiliate,34.8,"$1,886.52"
-SEA > SEO > (Other),34.8,"$1,686.98"
-Affiliate > Affiliate > Affiliate,34.8,"$1,493.05"
-SEA > Social Media Unpaid > SEO,34.8,"$1,465.50"
-SEA > SEO > CRM,34.8,"$1,438.62"
-(Other) > SEA > CRM,34.8,"$1,241.55"
-SEA > SEA > Social Media Paid,34.8,"$1,197.84"
-SEO > Social Media Unpaid > SEO,34.8,"$1,099.12"
-Affiliate > (Other) > (Other),34.8,"$1,031.94"
-Affiliate > (Other) > SEA,34.8,"$1,007.21"
-SEO > Social Media Unpaid > Affiliate,34.8,$993.24
-Social Media Paid > Social Media Unpaid > Social Media Unpaid,34.8,$830.39
-SEA > SEO > Affiliate,34.8,$800.38
-Social Media Unpaid > (Other) > CRM,34.8,$779.33
-SEA > CRM > CRM,34.8,$732.75
-SEO > Affiliate > CRM,34.8,$468.04
-SEO > SEA > (Other),34.8,$358.31
-Social Media Paid > SEA > (Other),34.8,$284.32
-(Other) > Social Media Unpaid > Social Media Unpaid,34.8,$225.74
-(Other) > Social Media Unpaid > (Other),34.8,$172.53
-SEO > SEA > Social Media Unpaid,34.8,$166.39
-Affiliate > SEA > CRM,34.8,$162.84
-CRM > SEA > CRM,34.8,$158.78
-CRM > (Other) > SEA,34.8,$111.97
-SEA > Social Media Paid > (Other),34.8,$111.97
-CRM > CRM > CRM,34.8,$79.98
-Social Media Paid > Social Media Paid > Social Media Unpaid,34.8,$0.00
-SEA > SEA > SEA > SEA,552,"$27,690.60"
-SEO > SEA > SEA > SEA,379.2,"$17,679.01"
-SEO > SEA > SEA > SEO,310.8,"$12,569.33"
-SEO > SEA > SEO > SEA,310.8,"$8,429.74"
-SEO > (Other) > SEA > SEA,172.8,"$6,439.59"
-SEO > SEA > SEO > CRM,172.8,"$4,084.17"
-SEA > SEA > SEA > SEO,69.6,"$8,167.37"
-SEO > SEA > CRM > CRM,69.6,"$3,206.83"
-(Other) > (Other) > (Other) > (Other),69.6,"$1,355.39"
-SEO > Social Media Unpaid > SEO > CRM,69.6,"$1,099.12"
-SEA > Affiliate > Social Media Unpaid > SEA,69.6,"$1,074.93"
-SEO > SEA > (Other) > SEA,69.6,$669.15
-SEO > SEA > SEO > (Other),69.6,$403.10
-SEO > (Other) > SEO > SEA,69.6,$337.93
-SEA > SEA > CRM > Social Media Unpaid,34.8,"$5,679.97"
-(Other) > (Other) > (Other) > CRM,34.8,"$3,985.87"
-SEO > (Other) > SEO > SEO,34.8,"$3,811.73"
-SEO > (Other) > SEO > Social Media Unpaid,34.8,"$3,448.39"
-Affiliate > Affiliate > Affiliate > Affiliate,34.8,"$2,921.68"
-SEO > SEA > SEO > SEO,34.8,"$2,921.68"
-SEA > SEA > CRM > SEA,34.8,"$2,394.30"
-SEA > CRM > Affiliate > CRM,34.8,"$1,905.86"
-SEO > SEA > CRM > SEO,34.8,"$1,830.98"
-SEO > SEA > SEA > Affiliate,34.8,"$1,662.34"
-SEO > Social Media Unpaid > SEA > SEA,34.8,"$1,497.75"
-SEO > Affiliate > (Other) > SEO,34.8,"$1,294.76"
-SEA > SEO > SEA > SEA,34.8,"$1,280.07"
-SEA > SEO > SEA > CRM,34.8,"$1,234.16"
-Social Media Paid > Social Media Paid > Social Media Paid > Social Media Unpaid,34.8,"$1,172.40"
-SEO > (Other) > SEA > CRM,34.8,$960.45
-(Other) > (Other) > SEA > (Other),34.8,$861.02
-(Other) > (Other) > CRM > CRM,34.8,$635.11
-SEA > Social Media Unpaid > SEA > Social Media Unpaid,34.8,$599.66
-(Other) > SEO > (Other) > CRM,34.8,$476.19
-SEA > (Other) > (Other) > SEA,34.8,$406.24
-SEO > Affiliate > SEO > SEA,34.8,$382.50
-SEO > (Other) > (Other) > SEA,34.8,$358.31
-SEA > SEA > SEA > CRM,34.8,$340.22
-SEO > SEA > SEA > CRM,34.8,$284.41
-(Other) > SEA > SEO > CRM,34.8,$255.94
-SEO > SEA > (Other) > (Other),34.8,$225.74
-SEO > (Other) > SEO > (Other),34.8,$223.94
-CRM > SEA > CRM > CRM,34.8,$158.78
-SEO > CRM > SEA > SEO,34.8,$111.97
-Affiliate > SEA > SEO > (Other),34.8,$0.00
-CRM > SEO > Affiliate > SEO,34.8,$0.00
-SEA > SEA > SEO > SEA,34.8,$0.00
-SEO > SEA > SEA > SEA > SEA,138,"$4,474.97"
-SEO > SEA > SEA > SEO > SEA,69.6,"$2,850.42"
-SEO > SEA > SEA > (Other) > CRM,69.6,"$2,690.39"
-SEA > SEA > SEA > SEA > SEA,69.6,"$2,532.73"
-SEO > SEA > SEO > SEA > SEO,69.6,"$2,202.72"
-SEO > SEA > CRM > SEO > CRM,34.8,"$14,044.05"
-SEO > SEA > SEO > SEA > SEA,34.8,"$4,483.21"
-(Other) > (Other) > (Other) > (Other) > (Other),34.8,"$4,382.52"
-SEO > SEA > SEA > (Other) > SEO,34.8,"$3,985.87"
-SEO > SEA > Affiliate > Affiliate > SEA,34.8,"$3,228.56"
-SEO > Social Media Unpaid > SEA > SEA > CRM,34.8,"$2,746.46"
-SEO > SEA > SEO > (Other) > SEA,34.8,"$1,990.88"
-SEA > SEA > (Other) > SEA > SEA,34.8,"$1,837.07"
-CRM > CRM > CRM > CRM > CRM,34.8,"$1,548.58"
-SEA > SEA > CRM > SEA > CRM,34.8,"$1,465.50"
-(Other) > (Other) > (Other) > (Other) > SEO,34.8,"$1,268.78"
-CRM > SEA > CRM > SEA > CRM,34.8,"$1,074.93"
-SEO > (Other) > (Other) > CRM > (Other),34.8,"$1,031.94"
-SEA > SEA > SEA > (Other) > (Other),34.8,$960.45
-SEO > SEO > SEA > (Other) > SEO,34.8,$732.75
-Social Media Paid > Social Media Paid > SEA > SEA > SEA,34.8,$620.78
-SEA > SEO > SEA > SEO > SEA,34.8,$560.58
-CRM > Affiliate > CRM > Affiliate > CRM,34.8,$537.47
-SEO > (Other) > Affiliate > SEA > SEO,34.8,$508.08
-(Other) > (Other) > (Other) > (Other) > SEA,34.8,$447.17
-SEA > SEA > SEO > SEA > SEA,34.8,$366.38
-SEO > CRM > SEA > CRM > CRM,34.8,$306.36
-SEO > SEA > SEO > SEA > CRM,34.8,$225.96
-SEO > SEA > Affiliate > (Other) > SEO,34.8,$179.16
-SEA > SEA > SEO > SEA > SEO,34.8,$0.00
-SEO > SEA > SEA > SEA > SEA > SEO,69.6,"$13,129.64"
-SEO > SEA > SEA > SEA > SEA > SEA,69.6,"$2,086.81"
-SEA > SEA > SEA > SEA > SEA > CRM,34.8,"$8,466.92"
-SEA > SEA > SEO > SEA > SEA > SEA,34.8,"$5,867.00"
-SEA > SEA > SEA > SEA > SEA > SEA,34.8,"$3,716.60"
-SEO > (Other) > SEA > SEA > (Other) > CRM,34.8,"$3,019.49"
-SEO > SEA > Affiliate > Affiliate > SEA > Social Media Unpaid,34.8,"$1,813.95"
-SEO > (Other) > (Other) > (Other) > (Other) > (Other),34.8,"$1,585.98"
-(Other) > SEO > SEA > (Other) > (Other) > SEO,34.8,"$1,533.40"
-SEO > SEA > (Other) > SEA > (Other) > SEA,34.8,"$1,270.57"
-(Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,$568.82
-CRM > (Other) > (Other) > (Other) > (Other) > (Other),34.8,$398.18
-Affiliate > Affiliate > Affiliate > Affiliate > Affiliate > Affiliate,34.8,$284.86
-SEO > Affiliate > SEA > Affiliate > SEA > SEA,34.8,$284.41
-(Other) > SEA > (Other) > (Other) > (Other) > SEA,34.8,$234.03
-SEO > SEA > SEA > (Other) > (Other) > SEA,34.8,$223.94
-SEA > (Other) > (Other) > (Other) > (Other) > SEA,34.8,$158.78
-SEO > CRM > (Other) > (Other) > SEO > (Other) > (Other),69.6,"$1,064.00"
-SEO > SEA > SEO > SEA > SEA > SEA > SEO,34.8,"$4,483.21"
-SEO > (Other) > SEA > SEA > SEA > SEA > SEA,34.8,"$4,038.90"
-SEO > SEA > SEO > Social Media Unpaid > SEO > SEA > SEA,34.8,"$2,657.25"
-SEO > SEA > (Other) > SEA > Affiliate > SEA > SEA,34.8,"$1,881.14"
-SEA > SEA > SEA > SEA > SEA > SEA > CRM,34.8,"$1,791.38"
-SEO > SEA > SEO > SEA > SEA > SEA > SEA,34.8,"$1,257.07"
-SEO > CRM > SEA > SEO > CRM > SEO > CRM,34.8,"$1,030.86"
-(Other) > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,34.8,$998.15
-(Other) > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,$972.46
-SEO > SEA > SEA > SEA > SEO > SEA > SEA,34.8,$612.71
-SEA > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,$580.91
-SEA > SEO > SEA > SEO > SEA > SEA > SEA,34.8,$560.58
-SEA > (Other) > SEA > (Other) > SEO > SEA > SEA,34.8,$374.44
-SEO > (Other) > SEO > SEA > SEA > (Other) > SEO,34.8,$204.24
-SEA > Social Media Unpaid > SEO > (Other) > SEA > SEA > SEO,34.8,$0.00
-(Other) > SEO > (Other) > SEO > SEA > SEO > (Other) > SEO,34.8,"$7,775.38"
-SEO > SEA > SEO > SEA > (Other) > SEO > (Other) > SEA,34.8,"$3,806.35"
-SEA > SEA > (Other) > SEA > Affiliate > SEA > SEA > SEO,34.8,"$2,477.73"
-SEO > CRM > SEO > (Other) > CRM > (Other) > CRM > CRM,34.8,$475.72
-SEO > (Other) > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,34.8,$374.66
-SEA > (Other) > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,$358.31
-SEO > (Other) > SEA > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,69.6,"$1,998.87"
-SEO > SEA > SEO > SEA > SEA > SEA > SEO > (Other) > Social Media Unpaid,34.8,$358.31
-SEO > SEA > SEA > SEA > SEO > SEA > SEA > SEA > SEA,34.8,$284.41
-SEO > SEA > SEO > SEA > SEA > (Other) > (Other) > (Other) > (Other) > SEA,34.8,"$3,806.35"
-SEA > SEA > SEA > SEA > SEO > SEA > SEA > SEO > (Other) > SEO > CRM,34.8,$830.39
-(Other) > (Other) > (Other) > CRM > (Other) > CRM > (Other) > SEO > (Other) > Social Media Unpaid > (Other) > SEO > CRM,34.8,"$2,190.72"
-SEA > SEA > (Other) > (Other) > (Other) > SEA > SEA > SEO > SEA > SEA > Social Media Unpaid > (Other) > (Other) > (Other),34.8,$303.29
+SEO,74986.8,3206765.025
+SEA,45931.2,1925668.952
+Social Media Paid,23810.4,848227.227
+CRM,10766.4,485507.6558
+Social Media Unpaid,6246,229392.1333
+Affiliate,4209.6,169245.2124
+(Other),4003.2,137497.0523
+SEO > SEA,10214.4,446666.6674
+SEA > SEA,6280.8,270617.2537
+SEO > CRM,3037.2,110173.1267
+Social Media Paid > Social Media Paid,1656,65723.7855
+SEO > (Other),1207.2,64195.8157
+SEA > SEO,1173.6,50741.0716
+SEA > CRM,1173.6,49489.7316
+SEO > Affiliate,966,47171.0057
+(Other) > CRM,621.6,18291.9831
+(Other) > (Other),552,25892.3161
+SEO > Social Media Paid,517.2,22265.0321
+Social Media Paid > Social Media Unpaid,414,15021.3132
+SEA > (Other),379.2,29115.0684
+(Other) > SEA,379.2,14735.2672
+CRM > CRM,379.2,8402.5078
+SEA > Affiliate,345.6,14293.4
+Affiliate > SEA,310.8,5814.3433
+SEO > Social Media Unpaid,172.8,9360.2368
+Social Media Unpaid > Social Media Paid,172.8,7712.0102
+Social Media Paid > CRM,172.8,5363.7541
+Affiliate > SEO,138,8244.8532
+Affiliate > (Other),138,7478.6522
+Social Media Paid > SEA,138,2786.9549
+SEA > Social Media Unpaid,103.2,12050.0393
+CRM > SEA,103.2,5250.9288
+(Other) > SEO,103.2,4729.1663
+Social Media Unpaid > Social Media Unpaid,103.2,4041.401
+SEA > Social Media Paid,103.2,670.793
+CRM > (Other),69.6,1943.7422
+Affiliate > Affiliate,69.6,1764.692
+(Other) > Social Media Unpaid,69.6,1396.3299
+Affiliate > CRM,69.6,1313.0348
+CRM > SEO,69.6,749.4067
+SEO > SEO,69.6,510.4684
+(Other) > Affiliate,34.8,8618.1281
+Social Media Paid > Affiliate,34.8,4405.0906
+Social Media Paid > SEO,34.8,3811.7276
+Social Media Unpaid > CRM,34.8,2903.447
+Social Media Unpaid > Affiliate,34.8,2014.4349
+CRM > Social Media Paid,34.8,1299.9607
+Social Media Unpaid > (Other),34.8,543.0691
+Social Media Paid > (Other),34.8,284.4084
+SEO > SEA > SEA,2001.6,114614.0487
+SEA > SEA > SEA,1207.2,49620.1166
+SEO > SEA > SEO,1104,45165.1504
+SEO > SEA > CRM,586.8,32979.6798
+SEA > SEO > SEA,379.2,16141.3693
+SEO > Affiliate > SEO,345.6,14470.9906
+SEO > (Other) > SEA,276,12788.4367
+SEA > SEA > CRM,276,6031.9661
+SEO > (Other) > SEO,241.2,13886.4742
+(Other) > (Other) > (Other),172.8,15962.5416
+SEO > SEA > Affiliate,172.8,8170.1288
+(Other) > SEA > (Other),138,7960.6228
+SEO > CRM > CRM,138,1174.5508
+SEO > Affiliate > SEA,103.2,8862.8514
+SEO > (Other) > (Other),103.2,3651.8124
+SEA > (Other) > SEA,103.2,821.9061
+(Other) > (Other) > SEO,69.6,7883.0504
+SEO > Affiliate > Social Media Unpaid,69.6,5557.1511
+SEA > Affiliate > SEA,69.6,4245.567
+Social Media Paid > Social Media Paid > Social Media Paid,69.6,3391.4696
+CRM > SEO > Affiliate,69.6,2833.6087
+Social Media Paid > Social Media Unpaid > Social Media Paid,69.6,2548.3192
+SEA > (Other) > (Other),69.6,2361.2768
+SEO > SEA > Social Media Paid,69.6,2236.7658
+(Other) > (Other) > CRM,69.6,1902.1347
+SEO > (Other) > CRM,69.6,1772.524
+SEA > (Other) > CRM,69.6,1584.3513
+SEA > SEA > SEO,69.6,1408.6119
+SEO > SEO > SEA,69.6,1016.1753
+Social Media Paid > (Other) > Social Media Paid,69.6,766.4324
+SEO > CRM > Social Media Unpaid,69.6,716.628
+Affiliate > SEA > SEA,34.8,6945.5244
+Social Media Unpaid > Social Media Paid > Social Media Paid,34.8,5978.7975
+SEO > Social Media Unpaid > SEA,34.8,3762.2792
+SEO > Social Media Paid > Social Media Paid,34.8,3762.2792
+Social Media Unpaid > Social Media Paid > SEO,34.8,3716.4175
+CRM > Affiliate > CRM,34.8,2149.8751
+SEA > (Other) > Affiliate,34.8,1886.5152
+SEA > SEO > (Other),34.8,1686.9772
+Affiliate > Affiliate > Affiliate,34.8,1493.0462
+SEA > Social Media Unpaid > SEO,34.8,1465.5007
+SEA > SEO > CRM,34.8,1438.6227
+(Other) > SEA > CRM,34.8,1241.55
+SEA > SEA > Social Media Paid,34.8,1197.8421
+SEO > Social Media Unpaid > SEO,34.8,1099.1233
+Affiliate > (Other) > (Other),34.8,1031.9372
+Affiliate > (Other) > SEA,34.8,1007.213
+SEO > Social Media Unpaid > Affiliate,34.8,993.24
+Social Media Paid > Social Media Unpaid > Social Media Unpaid,34.8,830.3878
+SEA > SEO > Affiliate,34.8,800.377
+Social Media Unpaid > (Other) > CRM,34.8,779.3285
+SEA > CRM > CRM,34.8,732.7459
+SEO > Affiliate > CRM,34.8,468.0421
+SEO > SEA > (Other),34.8,358.314
+Social Media Paid > SEA > (Other),34.8,284.3194
+(Other) > Social Media Unpaid > Social Media Unpaid,34.8,225.7396
+(Other) > Social Media Unpaid > (Other),34.8,172.5265
+SEO > SEA > Social Media Unpaid,34.8,166.3944
+Affiliate > SEA > CRM,34.8,162.8433
+CRM > SEA > CRM,34.8,158.776
+CRM > (Other) > SEA,34.8,111.9709
+SEA > Social Media Paid > (Other),34.8,111.9709
+CRM > CRM > CRM,34.8,79.9843
+Social Media Paid > Social Media Paid > Social Media Unpaid,34.8,0
+SEA > SEA > SEA > SEA,552,27690.5967
+SEO > SEA > SEA > SEA,379.2,17679.0134
+SEO > SEA > SEA > SEO,310.8,12569.3276
+SEO > SEA > SEO > SEA,310.8,8429.7418
+SEO > (Other) > SEA > SEA,172.8,6439.5861
+SEO > SEA > SEO > CRM,172.8,4084.1744
+SEA > SEA > SEA > SEO,69.6,8167.3698
+SEO > SEA > CRM > CRM,69.6,3206.8302
+(Other) > (Other) > (Other) > (Other),69.6,1355.3899
+SEO > Social Media Unpaid > SEO > CRM,69.6,1099.1233
+SEA > Affiliate > Social Media Unpaid > SEA,69.6,1074.9331
+SEO > SEA > (Other) > SEA,69.6,669.1465
+SEO > SEA > SEO > (Other),69.6,403.0988
+SEO > (Other) > SEO > SEA,69.6,337.933
+SEA > SEA > CRM > Social Media Unpaid,34.8,5679.9711
+(Other) > (Other) > (Other) > CRM,34.8,3985.865
+SEO > (Other) > SEO > SEO,34.8,3811.7276
+SEO > (Other) > SEO > Social Media Unpaid,34.8,3448.394
+Affiliate > Affiliate > Affiliate > Affiliate,34.8,2921.6831
+SEO > SEA > SEO > SEO,34.8,2921.6831
+SEA > SEA > CRM > SEA,34.8,2394.2958
+SEA > CRM > Affiliate > CRM,34.8,1905.8638
+SEO > SEA > CRM > SEO,34.8,1830.9792
+SEO > SEA > SEA > Affiliate,34.8,1662.342
+SEO > Social Media Unpaid > SEA > SEA,34.8,1497.7454
+SEO > Affiliate > (Other) > SEO,34.8,1294.7631
+SEA > SEO > SEA > SEA,34.8,1280.0692
+SEA > SEO > SEA > CRM,34.8,1234.163
+Social Media Paid > Social Media Paid > Social Media Paid > Social Media Unpaid,34.8,1172.397
+SEO > (Other) > SEA > CRM,34.8,960.4524
+(Other) > (Other) > SEA > (Other),34.8,861.0216
+(Other) > (Other) > CRM > CRM,34.8,635.1129
+SEA > Social Media Unpaid > SEA > Social Media Unpaid,34.8,599.6642
+(Other) > SEO > (Other) > CRM,34.8,476.1945
+SEA > (Other) > (Other) > SEA,34.8,406.2405
+SEO > Affiliate > SEO > SEA,34.8,382.4953
+SEO > (Other) > (Other) > SEA,34.8,358.314
+SEA > SEA > SEA > CRM,34.8,340.2203
+SEO > SEA > SEA > CRM,34.8,284.4084
+(Other) > SEA > SEO > CRM,34.8,255.9373
+SEO > SEA > (Other) > (Other),34.8,225.7396
+SEO > (Other) > SEO > (Other),34.8,223.9418
+CRM > SEA > CRM > CRM,34.8,158.776
+SEO > CRM > SEA > SEO,34.8,111.9709
+Affiliate > SEA > SEO > (Other),34.8,0
+CRM > SEO > Affiliate > SEO,34.8,0
+SEA > SEA > SEO > SEA,34.8,0
+SEO > SEA > SEA > SEA > SEA,138,4474.9734
+SEO > SEA > SEA > SEO > SEA,69.6,2850.4208
+SEO > SEA > SEA > (Other) > CRM,69.6,2690.3899
+SEA > SEA > SEA > SEA > SEA,69.6,2532.7264
+SEO > SEA > SEO > SEA > SEO,69.6,2202.7233
+SEO > SEA > CRM > SEO > CRM,34.8,14044.0487
+SEO > SEA > SEO > SEA > SEA,34.8,4483.2059
+(Other) > (Other) > (Other) > (Other) > (Other),34.8,4382.5202
+SEO > SEA > SEA > (Other) > SEO,34.8,3985.865
+SEO > SEA > Affiliate > Affiliate > SEA,34.8,3228.5551
+SEO > Social Media Unpaid > SEA > SEA > CRM,34.8,2746.4599
+SEO > SEA > SEO > (Other) > SEA,34.8,1990.8766
+SEA > SEA > (Other) > SEA > SEA,34.8,1837.0668
+CRM > CRM > CRM > CRM > CRM,34.8,1548.5822
+SEA > SEA > CRM > SEA > CRM,34.8,1465.5007
+(Other) > (Other) > (Other) > (Other) > SEO,34.8,1268.784
+CRM > SEA > CRM > SEA > CRM,34.8,1074.9331
+SEO > (Other) > (Other) > CRM > (Other),34.8,1031.9372
+SEA > SEA > SEA > (Other) > (Other),34.8,960.4524
+SEO > SEO > SEA > (Other) > SEO,34.8,732.7459
+Social Media Paid > Social Media Paid > SEA > SEA > SEA,34.8,620.775
+SEA > SEO > SEA > SEO > SEA,34.8,560.5754
+CRM > Affiliate > CRM > Affiliate > CRM,34.8,537.471
+SEO > (Other) > Affiliate > SEA > SEO,34.8,508.0832
+(Other) > (Other) > (Other) > (Other) > SEA,34.8,447.1716
+SEA > SEA > SEO > SEA > SEA,34.8,366.3774
+SEO > CRM > SEA > CRM > CRM,34.8,306.3558
+SEO > SEA > SEO > SEA > CRM,34.8,225.9621
+SEO > SEA > Affiliate > (Other) > SEO,34.8,179.157
+SEA > SEA > SEO > SEA > SEO,34.8,0
+SEO > SEA > SEA > SEA > SEA > SEO,69.6,13129.636
+SEO > SEA > SEA > SEA > SEA > SEA,69.6,2086.8097
+SEA > SEA > SEA > SEA > SEA > CRM,34.8,8466.9171
+SEA > SEA > SEO > SEA > SEA > SEA,34.8,5867.0046
+SEA > SEA > SEA > SEA > SEA > SEA,34.8,3716.5955
+SEO > (Other) > SEA > SEA > (Other) > CRM,34.8,3019.4941
+SEO > SEA > Affiliate > Affiliate > SEA > Social Media Unpaid,34.8,1813.9535
+SEO > (Other) > (Other) > (Other) > (Other) > (Other),34.8,1585.98
+(Other) > SEO > SEA > (Other) > (Other) > SEO,34.8,1533.3988
+SEO > SEA > (Other) > SEA > (Other) > SEA,34.8,1270.5729
+(Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,568.8168
+CRM > (Other) > (Other) > (Other) > (Other) > (Other),34.8,398.1771
+Affiliate > Affiliate > Affiliate > Affiliate > Affiliate > Affiliate,34.8,284.8623
+SEO > Affiliate > SEA > Affiliate > SEA > SEA,34.8,284.4084
+(Other) > SEA > (Other) > (Other) > (Other) > SEA,34.8,234.0255
+SEO > SEA > SEA > (Other) > (Other) > SEA,34.8,223.9418
+SEA > (Other) > (Other) > (Other) > (Other) > SEA,34.8,158.776
+SEO > CRM > (Other) > (Other) > SEO > (Other) > (Other),69.6,1063.995
+SEO > SEA > SEO > SEA > SEA > SEA > SEO,34.8,4483.2059
+SEO > (Other) > SEA > SEA > SEA > SEA > SEA,34.8,4038.9001
+SEO > SEA > SEO > Social Media Unpaid > SEO > SEA > SEA,34.8,2657.2463
+SEO > SEA > (Other) > SEA > Affiliate > SEA > SEA,34.8,1881.1396
+SEA > SEA > SEA > SEA > SEA > SEA > CRM,34.8,1791.3831
+SEO > SEA > SEO > SEA > SEA > SEA > SEA,34.8,1257.0716
+SEO > CRM > SEA > SEO > CRM > SEO > CRM,34.8,1030.8603
+(Other) > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,34.8,998.1528
+(Other) > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,972.4585
+SEO > SEA > SEA > SEA > SEO > SEA > SEA,34.8,612.7116
+SEA > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,580.9119
+SEA > SEO > SEA > SEO > SEA > SEA > SEA,34.8,560.5754
+SEA > (Other) > SEA > (Other) > SEO > SEA > SEA,34.8,374.4408
+SEO > (Other) > SEO > SEA > SEA > (Other) > SEO,34.8,204.2372
+SEA > Social Media Unpaid > SEO > (Other) > SEA > SEA > SEO,34.8,0
+(Other) > SEO > (Other) > SEO > SEA > SEO > (Other) > SEO,34.8,7775.3782
+SEO > SEA > SEO > SEA > (Other) > SEO > (Other) > SEA,34.8,3806.352
+SEA > SEA > (Other) > SEA > Affiliate > SEA > SEA > SEO,34.8,2477.7333
+SEO > CRM > SEO > (Other) > CRM > (Other) > CRM > CRM,34.8,475.7228
+SEO > (Other) > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,34.8,374.6633
+SEA > (Other) > (Other) > (Other) > (Other) > (Other) > (Other) > (Other),34.8,358.314
+SEO > (Other) > SEA > (Other) > (Other) > (Other) > (Other) > (Other) > SEA,69.6,1998.8688
+SEO > SEA > SEO > SEA > SEA > SEA > SEO > (Other) > Social Media Unpaid,34.8,358.314
+SEO > SEA > SEA > SEA > SEO > SEA > SEA > SEA > SEA,34.8,284.4084
+SEO > SEA > SEO > SEA > SEA > (Other) > (Other) > (Other) > (Other) > SEA,34.8,3806.352
+SEA > SEA > SEA > SEA > SEO > SEA > SEA > SEO > (Other) > SEO > CRM,34.8,830.3878
+(Other) > (Other) > (Other) > CRM > (Other) > CRM > (Other) > SEO > (Other) > Social Media Unpaid > (Other) > SEO > CRM,34.8,2190.7172
+SEA > SEA > (Other) > (Other) > (Other) > SEA > SEA > SEO > SEA > SEA > Social Media Unpaid > (Other) > (Other) > (Other),34.8,303.2942
